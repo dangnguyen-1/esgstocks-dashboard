@@ -116,6 +116,38 @@ A scatter plot comparing ESG scores with **rolling 6-month stock returns** endin
 
 ---
 
+## Results & Visualizations
+
+### ESG Dimension to Beta Level Flow
+
+**Sankey diagram** showing how S&P 500 companies flow from ESG dimensions into ESG levels and Beta (market risk) levels.
+
+<p align="center">
+  <img src="images/esg_to_beta_sankey.png" width="700">
+</p>
+
+<br>
+
+### Stock Price Trends Over Time
+
+**Line plot** displaying stock price trends for companies over a user-specified date range.
+
+<p align="center">
+  <img src="images/stock_price_trends.png" width="700">
+</p>
+
+<br>
+
+### ESG Score vs. Rolling Stock Return
+
+**Scatter plot** comparing ESG scores with rolling 6-month stock returns (ending on the selected date), colored by beta level to highlight differences in market risk.
+
+<p align="center">
+  <img src="images/esg_vs_stock_return.png" width="700">
+</p>
+
+---
+
 ## Methodology Notes
 
 - **ESG Levels:** Computed using percentile rank within the ESG dataset (relative performance).
