@@ -1,4 +1,4 @@
-# S&P 500 ESG & Stock Performance Interactive Dashboard
+# S&P 500 ESG & Stock Performance Dashboard
 
 This interactive dashboard explores the relationship between S&P 500 **ESG (Environmental, Social, and Governance)** scores and stock performance in 2023-2024. 
 
